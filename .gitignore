@@ -1,1 +1,8 @@
-dataset.7z
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+
+# 7z
+*.7z
